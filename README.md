@@ -1,1 +1,1 @@
-# screenshot-anymonizer
+# screenshot-anonymizer
